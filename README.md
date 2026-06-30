@@ -1,4 +1,4 @@
-# intro-to-portfolio-optimization
+# Introdução à otimização de portfólios com R e o pacote `fPortfolio()`
 
 Aplicação do critério de média variância para obtenção do portfólio de variância mínima através do pacote `fPortfolio`. Obtemos um portfólio com rebalanceamento mensal que supera o retorno acumulado do CDI durante o período de 5 anos.
 
